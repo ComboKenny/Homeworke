@@ -916,3 +916,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.25-02.40.10:467][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2023.09.25-02.40.46:578][333]LogActorFactory: Actor Factory created Cone
 [2023.09.25-02.40.47:300][372]LogActorFactory: Actor Factory created Cone
+[2023.09.25-02.42.32:490][940]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.09.25-02.42.32:503][940]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.09.25-02.42.32:627][940]LogSlate: Took 0.014155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.25-02.42.33:654][991]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2023.09.25-02.42.33:683][991]LogContentBrowser: End creating deferred item NewMaterial
+[2023.09.25-02.42.35:009][ 26]LogSlate: Took 0.000498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.25-02.42.35:041][ 26]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterial.NewMaterial
+[2023.09.25-02.42.35:118][ 26]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4EFCB4B4CA90BDEFC6660948EAC30BA2A68F1D4D), compiling. 
+[2023.09.25-02.42.35:374][ 26]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2023.09.25-02.42.35:849][ 26]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2023.09.25-02.42.35:849][ 26]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2023.09.25-02.42.35:849][ 26]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2023.09.25-02.42.35:849][ 26]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2023.09.25-02.42.35:849][ 26]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2023.09.25-02.42.35:947][ 26]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.09.25-02.42.37:249][ 26]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.09.25-02.42.38:309][ 26]LogMaterial: Display: Missing cached shadermap for NewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DF4013EB261CA216B5E8D69743C314325C744185), compiling. 
+[2023.09.25-02.42.38:373][ 26]MaterialEditorStats: Texture samplers: 0/16
+[2023.09.25-02.42.38:393][ 26]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.25-02.42.38:393][ 26]LogShaderCompilers: Display: Total job queries 10, among them cache hits 0 (0.00%)
+[2023.09.25-02.42.38:393][ 26]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.09.25-02.42.38:393][ 26]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2023.09.25-02.42.38:393][ 26]LogShaderCompilers: Display: ================================================
+[2023.09.25-02.42.38:445][ 26]LogSlate: Took 0.026810 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.09.25-02.42.39:181][ 29]MaterialEditorStats: Base pass shader: 117 instructions
+[2023.09.25-02.42.39:181][ 29]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2023.09.25-02.42.39:181][ 29]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.09.25-02.42.39:181][ 29]MaterialEditorStats: Texture samplers: 2/16
+[2023.09.25-02.42.41:266][101]LogSlate: Window 'NewMaterial' being destroyed
+[2023.09.25-02.42.41:271][101]LogSlate: Window 'NewMaterial' being destroyed
+[2023.09.25-02.42.41:302][101]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.09.25-02.42.41:302][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
