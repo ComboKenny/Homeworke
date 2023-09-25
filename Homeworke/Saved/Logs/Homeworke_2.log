@@ -911,3 +911,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.09.25-02.38.18:772][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2023.09.25-02.39.32:470][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2023.09.25-02.39.33:426][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.09.25-02.40.07:353][441]LogActorFactory: Actor Factory created Sphere
+[2023.09.25-02.40.07:941][473]LogActorFactory: Actor Factory created Sphere
+[2023.09.25-02.40.10:467][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2023.09.25-02.40.46:578][333]LogActorFactory: Actor Factory created Cone
+[2023.09.25-02.40.47:300][372]LogActorFactory: Actor Factory created Cone
